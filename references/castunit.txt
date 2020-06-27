@@ -1,0 +1,69 @@
+      
+     Cast unit
+     _______________________________________________________________________________________
+      
+     Position                      :  W/64
+     Total in model                :  1
+      
+     Main part name                :  WALL
+     Main part profile             :  3200*160
+     Main part material            :  C30/37
+      
+     Width                         :  160.0 mm
+     Height                        :  3200.0 mm
+     Length                        :  5870.0 mm
+     Center of gravity             :  X=24370.0      Y=8775.0       Z=15601.7
+      
+     Volume                        :  2.20 m³
+     Cast unit Weight              :  5379.4 kg
+     Rebar Weight                  :  145.3 kg
+      
+     Local Top level               :  +17.000
+     Local Bottom level            :  +13.800
+     Global Top level              :  +17.000
+     Global Bottom level           :  +13.800
+     Grids                         :  4-5/B-C
+      
+     Father GUID                   :  564309DF-0000-01F9-3134-343732333431
+     GUID                          :  564309DF-0000-01FA-3134-343732333431
+      
+     Building                      :  
+     Section                       :  
+     Floor                         :  
+      
+    --------------------------------------------------------------------------------------------------------
+     Parts
+     Qty.  Name                         Profile              Material              Volume [m³]
+    --------------------------------------------------------------------------------------------------------
+        1  WALL                         3200*160             C30/37                     2.20
+    --------------------------------------------------------------------------------------------------------
+                                                                    Total Concrete:     2.20
+      
+    -------------------------------------------------------------------------------------------------------------------------------
+     Reinforcing bars                                                              Dimensions
+     Mark       Grade     Size    Shape   Qty.   Length    dL    Weight   Total    A     B     C     D     E     F     u   v   R
+                                                 mm        mm             kg
+    -------------------------------------------------------------------------------------------------------------------------------
+      
+     Numbered bars
+      
+     R/4        Undefined 8       4       52     1060            0.4      20.8     500   100   500                     90      16
+     WBPB/38    Undefined 8       1       18     3335            1.3      23.4     3335                                        
+     WBPB/39    Undefined 8       1       12     1260            0.5      6.0      1260                                        
+     WBSB/1     Undefined 8       1       6      5820            2.3      13.8     5820                                        
+     WBSB/29    Undefined 8       1       22     1685            0.7      15.4     1685                                        
+     WEB/1      Undefined 8       4       17     1070            0.4      6.8      500   110   500                     90      16
+     WTPB/33    Undefined 8       1       18     3335            1.3      23.4     3335                                        
+     WTPB/34    Undefined 8       1       12     1260            0.5      6.0      1260                                        
+     WTSB/1     Undefined 8       1       6      5820            2.3      13.8     5820                                        
+     WTSB/23    Undefined 8       1       22     1685            0.7      15.4     1685                                        
+     ==============================================================================================================================
+     Sum                                  185                             145.2
+
+More:
+CIP_STATUS                    : 0
+FABRICATION_STATUS            : 6
+PLANS_STATUS                  : 1
+
+Owner                         : TEKLAAD\sakla
+Temporary ID                  : 83132512

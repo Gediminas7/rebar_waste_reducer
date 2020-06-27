@@ -1,0 +1,20 @@
+"""dont use camel case rebars_to_use (not good) done
+
+rebars_to_use this is expected in pyhyton done
+
+indentation - 4 spaces! done
+
+setup code editor. it will format everything as needed. done
+
+VScode code editor - good code editor. better then atom. pycharm - could be expensive. vim? code editor - the old. done
+
+extract to function or class.
+
+one function - one thing. Minimize functions.
+
+learn about classes.
+
+Trimble connect API maybe.
+
+make it nice!
+"""
